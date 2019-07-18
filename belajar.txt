@@ -7,3 +7,5 @@ Git Push
 Git Pull
 Git Branch
 Mengurangi Percobaan
+Percobaan 1
+Percobaan 2
