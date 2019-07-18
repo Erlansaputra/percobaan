@@ -1,0 +1,8 @@
+Target Belajar Github
+Dapat Memahami 
+Git Add
+Git Commit
+Git Clone
+Git Push
+Git Pull
+Git Branch
