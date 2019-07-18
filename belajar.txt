@@ -6,3 +6,4 @@ Git Clone
 Git Push
 Git Pull
 Git Branch
+Menambahkan Percobaan
