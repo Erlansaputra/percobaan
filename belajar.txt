@@ -9,4 +9,5 @@ Git Branch
 Mengurangi Percobaan
 Percobaan 1
 Percobaan 2
+git fetch buat fetch repositori server dan local
 
